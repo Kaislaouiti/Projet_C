@@ -264,7 +264,7 @@ int main() {
 
                     printf("Choisissez une option : ");
                     scanf("%d", &choix1);}while(choix1>2);
-                if(choix1==1){ nv_agenda=agenda;}if(choix1==2){ nv_agenda=agenda2;}else{break;}
+                if(choix1==1){ nv_agenda=agenda;}if(choix1==2){ nv_agenda=agenda2;}
                 int choix;
                 do {
                     printf("\nOptions disponibles:\n");
